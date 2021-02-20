@@ -1,2 +1,8 @@
 composer init
 
+PARA ALTERAÇÕES:
+
+composer install
+
+
+
