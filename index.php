@@ -1,11 +1,6 @@
-<?php
 
-require_once "vendor/autoload.php";
-
-use \Wead\DigitalCep\Search;
-
-$busca = new Search;
-
-$resultado = $busca->getAddressFromZipcode('08121600');
-
-print_r($resultado);
+<form method="post" action="end.php">
+    <label>CEP</label><br>
+    <input type="text" name="cep">
+    <input type="submit" value="Buscar CEP">
+</form>
