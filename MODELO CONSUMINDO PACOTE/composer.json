@@ -1,0 +1,12 @@
+{
+    "name": "afonso/laravel2",
+    "authors": [
+        {
+            "name": "Afonso-cmd",
+            "email": "afonso.ur@gmail.com"
+        }
+    ],
+    "require": {
+        "wead/digital-cep": "^1.0"
+    }
+}
